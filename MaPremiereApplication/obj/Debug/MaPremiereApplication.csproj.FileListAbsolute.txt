@@ -1,0 +1,7 @@
+c:\users\jorda\source\repos\MaPremiereApplication\MaPremiereApplication\bin\Debug\MaPremiereApplication.exe.config
+c:\users\jorda\source\repos\MaPremiereApplication\MaPremiereApplication\bin\Debug\MaPremiereApplication.exe
+c:\users\jorda\source\repos\MaPremiereApplication\MaPremiereApplication\bin\Debug\MaPremiereApplication.pdb
+c:\users\jorda\source\repos\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.csprojAssemblyReference.cache
+c:\users\jorda\source\repos\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.csproj.CoreCompileInputs.cache
+c:\users\jorda\source\repos\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.exe
+c:\users\jorda\source\repos\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.pdb
